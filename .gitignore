@@ -1,0 +1,23 @@
+# Ignore build output
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+
+# Ignore specific temporary files
+*.log
+*.obj
+*.exe
+*.pdb
+
+# Ignore user-specific files
+*.user
+*.opensdf
+*.VC.db
+
+# Ignore generated files
+*.tmp
+*.cache
+*.csproj
